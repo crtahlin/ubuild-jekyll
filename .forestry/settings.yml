@@ -12,7 +12,6 @@ sections:
 - type: document
   path: test-single-page.md
   label: Test - a single page
-  match: "**/*"
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
